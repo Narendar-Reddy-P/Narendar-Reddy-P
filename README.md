@@ -1,6 +1,6 @@
 - 👋 Hi, I’m P.Narendar Reddy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me narendarj6r@gmail.com
   
